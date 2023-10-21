@@ -1,2 +1,4 @@
 # SolarContracts
-Smart Contracts
+Smart Contracts for Sunchain Ventures and our Solar revenue token.
+
+
